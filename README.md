@@ -1,1 +1,1 @@
-# How to handle imbalance data ?
+# Handling the imbalance data.
